@@ -1,20 +1,13 @@
 # Memory Game Project
+___
+## What it's all about
+This memory game is a project for Front-End Web Developer Nanodegree Program at [Udacity.com](https://udacity.com). It's main purpose is to practice HTML, CSS and JavaScript.
 
-## Table of Contents
+## How to play the game
+The goal of the game is to find all matching pairs of images as quick as possible. Just start clicking and you'll get it ;)
 
-* [Instructions](#instructions)
-* [Contributing](#contributing)
+## Used resources
+The game uses shuffle function from http://stackoverflow.com/a/2450976
 
-## Instructions
-
-The starter project has some HTML and CSS styling to display a static version of the Memory Game project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
-
-To get started, open `js/app.js` and start building out the app's functionality
-
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
-
-## Contributing
-
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
-
-For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
+## Author
+Rafał Reszczyński (reszczynski.r@gmail.com), although there was some starter code (some HTML and CSS) given by Udacity.
