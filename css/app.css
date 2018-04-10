@@ -151,3 +151,38 @@ h1 {
     from {opacity: 0;}
     to {opacity: 1;}
 }
+
+@media screen and (max-width: 800px) {
+    .deck {
+        padding: 1em;
+        width: 320px;
+        min-height: 340px;
+
+    }
+
+    .deck .card {
+        height: 62px;
+        width: 62px;
+    }
+
+    .score-panel {
+        text-align: left;
+        width: 320px;
+    }
+
+    .deck .card.show {
+        font-size: 40px;
+    }
+    
+    .deck .card.match {
+        cursor: default;
+        background: #00c040;
+        font-size: 40px;
+    }
+    
+    .deck .card.not_match {
+        cursor: default;
+        background: #c80000;
+        font-size: 40px;
+    }
+}
